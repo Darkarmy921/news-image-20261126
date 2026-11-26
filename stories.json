@@ -1,0 +1,245 @@
+{
+  "date": "Thursday 26 November 2026",
+  "lead": {
+    "headline": "US plans tariffs on 14 economies",
+    "summary": "Washington proposes new Section 301 duties on the EU, China, India and 11 others over excess factory capacity. India faces up to 25%. Markets fall; the EU and China push back.",
+    "tag": "LEAD — GLOBAL TRADE"
+  },
+  "stories": [
+    {
+      "cat": "Economy",
+      "headline": "South Korea lifts rate to 3.25%",
+      "region": "Asia-Pacific",
+      "summary": "Bank of Korea resumes tightening with a quarter-point rise as a chip-led export"
+    },
+    {
+      "cat": "Markets",
+      "headline": "Asia shares bounce; Nikkei +1.6%",
+      "region": "Asia-Pacific",
+      "summary": "Stocks recover after Wall Street fights back from deep lows, but AI worries and"
+    },
+    {
+      "cat": "Tech",
+      "headline": "How China got Nvidia AI chips",
+      "region": "Asia-Pacific",
+      "summary": "A Reuters explainer traces how Chinese buyers obtained Nvidia AI chips despite"
+    },
+    {
+      "cat": "Tech",
+      "headline": "Japan data-centre boom faces revolt",
+      "region": "Asia-Pacific",
+      "summary": "Residents push back against a surge of data-centre building in Japanese cities."
+    },
+    {
+      "cat": "Disaster",
+      "headline": "13 dead, 13 trapped in Java gold mine",
+      "region": "Asia-Pacific",
+      "summary": "Rescuers resume the search at an illegal gold mine in West Java after 13 deaths"
+    },
+    {
+      "cat": "Space",
+      "headline": "Australia tests Moon rover electronics",
+      "region": "Asia-Pacific",
+      "summary": "Swinburne tests Roo-ver parts under heavy radiation ahead of the 2030 Moon"
+    },
+    {
+      "cat": "Economy",
+      "headline": "Bangladesh garment pay up 36%",
+      "region": "South Asia",
+      "summary": "Minimum wage rises to Tk17,000 a month after weeks of protests that shut"
+    },
+    {
+      "cat": "Health",
+      "headline": "Bangladesh vaccinates 50m children",
+      "region": "South Asia",
+      "summary": "A month-long drive targets drug-resistant typhoid in 50 million children."
+    },
+    {
+      "cat": "Business",
+      "headline": "Uber names India–South Asia chief",
+      "region": "South Asia",
+      "summary": "Rakesh Ranjan is appointed president for India and South Asia, starting 4"
+    },
+    {
+      "cat": "Politics",
+      "headline": "Tamil Nadu lamp row defies court",
+      "region": "South Asia",
+      "summary": "Authorities skip the Deepathoon lamp lighting despite a court order."
+    },
+    {
+      "cat": "Space",
+      "headline": "Pakistan's first astronaut in orbit",
+      "region": "South Asia",
+      "summary": "Shenzhou-24 reaches Tiangong with Pakistan's first astronaut."
+    },
+    {
+      "cat": "War",
+      "headline": "Houthis claim Saudi refinery hit",
+      "region": "Middle East",
+      "summary": "Yemen's Houthis say they struck Saudi Arabia's largest refinery; oil prices"
+    },
+    {
+      "cat": "War",
+      "headline": "Two tankers hit mines off Hormuz",
+      "region": "Middle East",
+      "summary": "Iran says two 'rogue' tankers struck naval mines in the Strait of Hormuz and"
+    },
+    {
+      "cat": "Law",
+      "headline": "Judges urge Netanyahu bribery case dropped",
+      "region": "Middle East",
+      "summary": "Judges say a bribery conviction looks unlikely."
+    },
+    {
+      "cat": "Politics",
+      "headline": "Knesset backs 7 October inquiry",
+      "region": "Middle East",
+      "summary": "A commission to investigate 7 October is approved despite Netanyahu."
+    },
+    {
+      "cat": "War",
+      "headline": "Houthi drone hits Riyadh tower again",
+      "region": "Middle East",
+      "summary": "A drone strikes Riyadh's tallest tower for the second time in a week, wounding"
+    },
+    {
+      "cat": "War",
+      "headline": "Israeli strike kills Hamas official",
+      "region": "Middle East",
+      "summary": "A senior Hamas security official and his family are killed in a strike on Gaza"
+    },
+    {
+      "cat": "War",
+      "headline": "Poland: NATO should down Russian missiles",
+      "region": "Europe",
+      "summary": "Warsaw urges NATO to intercept Russian missiles over Ukraine before they cross"
+    },
+    {
+      "cat": "Security",
+      "headline": "NATO chief: prepare for major war",
+      "region": "Europe",
+      "summary": "Secretary general tells Europe to prepare for the possibility of extensive"
+    },
+    {
+      "cat": "War",
+      "headline": "Ukraine hits Russian air base",
+      "region": "Europe",
+      "summary": "Kyiv says it struck a major Russian air base, damaging five planes, and two"
+    },
+    {
+      "cat": "Law",
+      "headline": "Russian governor held on graft charges",
+      "region": "Europe",
+      "summary": "The governor is detained for two months in a corruption case."
+    },
+    {
+      "cat": "Law",
+      "headline": "Spain probes TikTok abuse material",
+      "region": "Europe",
+      "summary": "Prosecutors open an investigation into child sexual abuse material on TikTok."
+    },
+    {
+      "cat": "Culture",
+      "headline": "Duran Duran guitarist Andy Taylor dies, 65",
+      "region": "Europe",
+      "summary": "Taylor, who co-wrote 'Rio' and 'Hungry Like the Wolf', dies after prostate"
+    },
+    {
+      "cat": "Sport",
+      "headline": "Sinner out after knee surgery",
+      "region": "Europe",
+      "summary": "Jannik Sinner faces an extended spell on the sidelines after knee surgery."
+    },
+    {
+      "cat": "Disaster",
+      "headline": "Cairo tanker fire kills at least 30",
+      "region": "Africa",
+      "summary": "A fuel tanker overturns and bursts into flames on Cairo's Ring Road, killing at"
+    },
+    {
+      "cat": "War",
+      "headline": "Militants kill at least 30 in Nigeria",
+      "region": "Africa",
+      "summary": "Suspected militants kill at least 30 and burn homes in Niger state."
+    },
+    {
+      "cat": "Law",
+      "headline": "Kenyan cult leader convicted again",
+      "region": "Africa",
+      "summary": "Paul Mackenzie, serving 200 years over the Shakahola starvation deaths, is"
+    },
+    {
+      "cat": "Crime",
+      "headline": "Nigeria seizes $227m of meth",
+      "region": "Africa",
+      "summary": "Anti-drug agency seizes methamphetamine worth $227m and arrests five Mexican"
+    },
+    {
+      "cat": "Politics",
+      "headline": "Tinubu vows peace in Borno",
+      "region": "Africa",
+      "summary": "Tinubu vows to restore peace in the insurgency-hit north-east."
+    },
+    {
+      "cat": "Economy",
+      "headline": "Africa 'can borrow to cut debt'",
+      "region": "Africa",
+      "summary": "OECD and African Union say debt-funded investment in growth could cut Africa's"
+    },
+    {
+      "cat": "Culture",
+      "headline": "Thanksgiving: Macy's parade postponed",
+      "region": "North America",
+      "summary": "The 100th Macy's parade moves to Saturday, a first in its history, as a storm"
+    },
+    {
+      "cat": "Weather",
+      "headline": "Storms and king tides hit US coasts",
+      "region": "North America",
+      "summary": "A nor'easter lashes the East Coast while record king tides flood California and"
+    },
+    {
+      "cat": "Security",
+      "headline": "US Army blast of explosives 'a success'",
+      "region": "North America",
+      "summary": "The Army detonates 4.5 tonnes of unstable lead azide in Iowa, reporting zero"
+    },
+    {
+      "cat": "Law",
+      "headline": "Second judge blocks birthright order",
+      "region": "North America",
+      "summary": "A second judge blocks Trump's newest order curtailing birthright citizenship."
+    },
+    {
+      "cat": "Tech",
+      "headline": "FCC clears 1m SpaceX AI satellites",
+      "region": "North America",
+      "summary": "FCC approves SpaceX's plan for a million orbital AI satellites."
+    },
+    {
+      "cat": "Crime",
+      "headline": "30 hostages freed in Colombia",
+      "region": "Latin America",
+      "summary": "About 30 hostages are rescued after a standoff in Colombia, authorities say."
+    },
+    {
+      "cat": "War",
+      "headline": "Bomb in Colombian city hurts 23",
+      "region": "Latin America",
+      "summary": "A bomb injures 23 as conflict spreads to urban areas in Colombia."
+    },
+    {
+      "cat": "Politics",
+      "headline": "Ecuador: US talks review operations",
+      "region": "Latin America",
+      "summary": "Ecuador's minister says US talks focused on reviewing operations."
+    },
+    {
+      "cat": "Weather",
+      "headline": "Peru ports shut by rough seas",
+      "region": "Latin America",
+      "summary": "Dozens of ports close as powerful currents batter Peru's coastline."
+    }
+  ],
+  "title": "THE WORLD TODAY"
+}
